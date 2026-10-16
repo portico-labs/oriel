@@ -1,0 +1,11 @@
+Oriel
+Copyright 2026 Fernando Magaña
+
+This product includes software ported from Sill
+(https://github.com/Saffsanity/sill), Copyright 2026 Noah Saffer,
+licensed under the Apache License, Version 2.0. The ported parts are Sill's
+wire format, pairing and identity code (Sources/StreamProtocol upstream),
+rewritten in Kotlin in app/src/main/java/dev/fmagana/oriel/protocol.
+
+Oriel is an independent project. It is not made by, endorsed by or
+affiliated with Sill or its author.
